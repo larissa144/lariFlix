@@ -1,13 +1,14 @@
-.Logo {
+import styled from 'styled-components';
+
+
+export const LogoImage = styled.img`
     max-width: 168px;
-  }
-  @media (max-width: 800px) {
-    .Logo {
+    @media (max-width: 800px) {
       max-width: 105px;
-    }
   }
-  
-  .Menu {
+`;
+
+export const MenuWrapper = styled.nav`
     width: 100%;
     height: 94px;
     z-index: 100;
@@ -23,25 +24,16 @@
     padding-left: 5%;
     padding-right: 5%;
   
-    background: var(--black);
+    background-color: var(--black);
     border-bottom: 2px solid var(--primary);
-  }
-  body {
-    --bodyPaddingTop: 94px;
-    padding-top: var(--bodyPaddingTop);
-  }
-  @media (max-width: 800px) {
-    .Menu {
+
+    @media (max-width: 800px) {
       height: 40px;
       justify-content: center;
     }
-    body {
-      --bodyPaddingTop: 40px;
-      padding-top: var(--bodyPaddingTop);
-    }
-  }
-  
-  .ButtonLink {
+`;
+
+export const ButtonLink = styled.button`
     color: var(--white);
     border: 1px solid var(--white);
     box-sizing: border-box;
@@ -55,14 +47,12 @@
     text-decoration: none;
     display: inline-block;
     transition: opacity .3s;
-  }
-  .ButtonLink:hover,
-  .ButtonLink:focus {
+  
+  &:hover,
+  &:focus {
     opacity: .5;
   }
-  
   @media (max-width: 800px) {
-    a.ButtonLink {
       position: fixed;
       left: 0;
       right: 0;
@@ -72,4 +62,6 @@
       border: 0;
       text-align: center;
     }
-  }
+`;
+
+

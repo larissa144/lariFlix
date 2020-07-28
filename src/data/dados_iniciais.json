@@ -1,183 +1,240 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Sertanejo",
+      "link": "https://www.youtube.com/watch?v=sjH-s6lozFk",
+      "cor": "#C71585",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "TOP sertanejos 2020",
+        "url": "https://www.youtube.com/watch?v=2pUBo5JMOwM"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "TOP pagodes da semana!!!",
+          "url": "https://www.youtube.com/watch?v=FpcISizAH5E"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Luiza e Maurílio - S de Saudade part Zé Neto e Cristiano",
+          "url": "https://www.youtube.com/watch?v=sjH-s6lozFk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Henrique e Juliano - LIBERDADE PROVISÓRIA",
+          "url": "https://www.youtube.com/watch?v=ff3r10rCKFs"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Jorge & Mateus - TIJOLÃO",
+          "url": "https://www.youtube.com/watch?v=8eOrHFape5I"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Marília Mendonça - APAIXONADINHA feat. Léo Santana e Didá Banda Feminina",
+          "url": "https://www.youtube.com/watch?v=1eZXuqrq910"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Lauana Prado - Cobaia (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=-ZByWa9hH5s"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Jorge & Mateus - CHEIROSA (Vídeo Oficial)",
+          "url": "https://www.youtube.com/watch?v=YZT1U2rlvyM"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Maiara e Maraisa - Aí Eu bebo",
+          "url": "https://www.youtube.com/watch?v=KY_6FYsX6wo"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Pagode",
+      "cor": "#DAA520",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Confira: churrasquinho do menos é mais (AO VIVO)",
+        "url": "https://www.youtube.com/watch?v=grcDTI7Szas&list=OLAK5uy_kWKsrmLljmLYt9bzdYLaQUvA_7vnVKVdA"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "PÉRICLES - ATÉ QUE DUROU (AO VIVO)",
+          "url": "https://www.youtube.com/watch?v=T3Y6RRSDm4o"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Ferrugem - Sinto sua Falta, É Natural, Pra Você Acreditar e Pirata e Tesouro",
+          "url": "https://www.youtube.com/watch?v=JhXagtxvDKY"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Mumuzinho - Mande Um Sinal / Calma / Dom De Sonhar",
+          "url": "https://www.youtube.com/watch?v=DGW7u_Rx-Rw"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Péricles - 40 Graus / Gamei / Azul Sem Fim / Até o Sol Quis Ver / A Carta",
+          "url": "https://www.youtube.com/watch?v=jepDyRwQFS0"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Dilsinho - Péssimo Negócio",
+          "url": "https://www.youtube.com/watch?v=4uQi5XvGI1M"
+        },
+        {
+          "titulo": "Pixote - Pot Pourri Franqueza/Tão Inocente/Tudo por Você",
+          "url": "https://www.youtube.com/watch?v=2Xf9_o54XcU"
+        },
+        {
+          "titulo": "BokaLoka - Ela mexe comigo",
+          "url": "https://www.youtube.com/watch?v=6dLAa5-B3YE"
+        },
+        {
+          "titulo": "Aventureiro/ Velocidade da luz/ Coladinho - Grupo Revelação",
+          "url": "https://www.youtube.com/watch?v=SaWhBz-PPkY"
+        },
+        {
+          "titulo": "Turma do Pagode - Deixa em Off (Vídeo Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=x_uuWhEtm4k"
         }
       ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+    },  {
+      "titulo": "POP",
+      "cor": "#4169E1",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Confira os maiores sucessos do FitDance",
+        "url": "https://www.youtube.com/watch?v=isJOnmpQ5K4&list=PLKs7SMx_9ycsYjad0FGK0weF4urtOxlyr"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Pabllo Vittar - Amor de Que",
+          "url": "https://www.youtube.com/watch?v=4zJ4i6Az2Ck&list=PLsW1In5R1dMGhTp37jHOezYpiglYIhQ0WE"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "POCAH - NÃO SOU OBRIGADA (CLIPE OFICIAL)",
+          "url": "https://www.youtube.com/watch?v=HutLSVbLWHM"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Anitta & Kevinho - Terremoto (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=O65FBF9RamQ"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Luísa Sonza - BRABA",
+          "url": "https://www.youtube.com/watch?v=ogxUGtlAq18"
+        },
+        {
+          "titulo": "Gloria Groove - Bumbum de Ouro (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=LWaOGMntBlY"
+        },
+        {
+          "titulo": "Lexa e Mc Lan - Sapequinha (Coreografia Oficial)",
+          "url": "https://www.youtube.com/watch?v=96ql8x07jcE"
+        },
+        {
+          "titulo": "Pabllo Vittar - Rajadão (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=naeTvOPmq-U"
+        },
+        {
+          "titulo": "Ludmilla e Léo Santana - Invocada",
+          "url": "https://www.youtube.com/watch?v=vvM7xlivbNQ"
         }
       ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+    },{
+      "titulo": "MPB",
+      "cor": "#3CB371",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Playlist de MPB no vagalume",
+        "url": "https://www.vagalume.com.br/browse/style/mpb.html"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Tim Maia - Azul da Cor do Mar",
+          "url": "https://www.youtube.com/watch?v=45T6cK94GPQ"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Alceu Valenca - Anunciação",
+          "url": "https://www.youtube.com/watch?v=OR74idpsweg"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "ANAVITÓRIA - Trevo (Tu) (Audio) ft. Tiago Iorc",
+          "url": "https://www.youtube.com/watch?v=GiXHRwNTu_I&list=PLEzqoPPEIo9sTlQXqwEevuc6ch-9_SC3o"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Tiago Nacarato - Onde anda você",
+          "url": "https://www.youtube.com/watch?v=RUaWezTEZMQ"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Djavan - Eu Te Devoro (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=B5P4lRBOfNE"
+        },
+        {
+          "titulo": "Ana Carolina - Quem De Nós Dois",
+          "url": "https://www.youtube.com/watch?v=z4j9BhlmSSU"
+        },
+        {
+          "titulo": "Maria Gadú - João de Barro",
+          "url": "https://www.youtube.com/watch?v=uYvKsR7VfyM"
+        },
+        {
+          "titulo": "Sozinho - Caetano Veloso (estúdio)",
+          "url": "https://www.youtube.com/watch?v=sGC8g0DJ0_E"
+        },
+        {
+          "titulo": "Cássia Eller - O segundo sol",
+          "url": "https://www.youtube.com/watch?v=MLI2QlgjGmA"
+        },
+        {
+          "titulo": "Alceu Valença - La Belle de Jour / Girassol (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=l-FxY25lYzY"
         }
+        
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Rock nacional",
+      "cor": "#4B0082",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Relembrar é viver: #QuarentEmo com o Fresno!",
+        "url": "https://www.youtube.com/watch?v=upMvJzWKb0A"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Pitty - Me Adora (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=66PrK9b_WD8&list=PL_Q15fKxrBb5hIXum_6kk5vUiPxqFJaH8&index=7"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Detonautas - Olhos certos",
+          "url": "https://www.youtube.com/watch?v=m2TIIJvW-xk&list=PL_Q15fKxrBb5hIXum_6kk5vUiPxqFJaH8&index=6"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "NX Zero - Cedo Ou Tarde",
+          "url": "https://www.youtube.com/watch?v=XdglM81b4g8&list=PL_Q15fKxrBb5hIXum_6kk5vUiPxqFJaH8&index=16"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Nando Reis - Por Onde Andei",
+          "url": "https://www.youtube.com/watch?v=K_MG6cbGhkA&list=PL_Q15fKxrBb5hIXum_6kk5vUiPxqFJaH8&index=19"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Jota Quest - Só Hoje (Acústico)",
+          "url": "https://www.youtube.com/watch?v=NeADhPP0G2Q"
+        },
+        {
+          "titulo": "Capital Inicial - Primeiros Erros (Chove) (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=s-wxMx2wxw4&list=PL_Q15fKxrBb5hIXum_6kk5vUiPxqFJaH8&index=78"
+        },
+        {
+          "titulo": "Legião Urbana - Será",
+          "url": "https://www.youtube.com/watch?v=hZg1r7BOXVA&list=PLaBs4BQz8GnxB3ytrvni_aekCBiyyZnUY"
+        },
+        {
+          "titulo": "Engenheiros do Hawaii - Refrão de Bolero",
+          "url": "https://www.youtube.com/watch?v=WxDn6X_68uw"
+        },
+        {
+          "titulo": "Kid Abelha part Lenine - Na Rua, na Chuva, na Fazenda",
+          "url": "https://www.youtube.com/watch?v=HkDClzwpuKk"
+        },
+        {
+          "titulo": "Esteban - Segunda Feira (ao vivo)",
+          "url": "https://www.youtube.com/watch?v=gjit4OgRZFM"
+        },
+        {
+          "titulo": "Charlie Brown Jr - Zóio de lula",
+          "url": "https://www.youtube.com/watch?v=etlCmhhn-VI"
+        },
+        {
+          "titulo": "Los Hermanos - Último Romance (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=hvbuYbwrpxc"
         }
       ]
     }

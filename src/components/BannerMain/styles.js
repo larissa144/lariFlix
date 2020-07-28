@@ -25,7 +25,7 @@ ContentAreaContainer.Item = styled.div`
 `;
 
 ContentAreaContainer.Category = styled.h1`
-  font-family: Roboto;
+  font-family: Actor;
   font-style: normal;
   font-weight: normal;
   font-size: 60px;
@@ -68,7 +68,7 @@ ContentAreaContainer.Title = styled.h2`
 export const BannerMainContainer = styled.section`
   height: 80vh;
   position: relative;
-  color: #fff;
+  color: var(--white);
   background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
   background-size: cover;
   background-position: center;
